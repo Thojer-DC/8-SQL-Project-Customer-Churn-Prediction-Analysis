@@ -1,8 +1,6 @@
 # Customer Churn Prediction Analysis
 
-## picture
-   ![](https://github.com/Thojer-DC/8-SQL-Project-Customer-Churn-Prediction-Analysis/blob/main/sqlp8.jpg)
-
+![](https://github.com/Thojer-DC/8-SQL-Project-Customer-Churn-Prediction-Analysis/blob/main/sqlp8.jpg)
 
 ## Overview
 The project focuses on customer loss for a made up telecoms corporation. client churn happens when a client stops using a service, and organizations want to know why so they can strengthen retention strategies. By evaluating client demographics, usage habits, and service information, we want to deliver actionable insights to lower churn rates.
